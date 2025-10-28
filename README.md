@@ -2,7 +2,8 @@
 Implementation of the paper: From Landslide Detection to Multi-Source LLM-Based Reporting: A Complete Framework for Rapid Assessment of Post-Disaster Scenarios.
 
 
-<img width="1951" height="2002" alt="framework" src="https://github.com/user-attachments/assets/5bb29dbe-7adb-43a4-bf4d-861438f5a1cc" />
+<img width="1951" height="1747" alt="framework" src="https://github.com/user-attachments/assets/a8bc2dab-447a-4695-bd86-a58c87ec5e53" />
+
 
 **Contents:**
 **yolo_trainin.py**:Fine-tuning YOLOv11 for landslide detection. The pretrained model takes RGB images as input and outputs the coordinates of detected landslides in YOLO format (normalized).
